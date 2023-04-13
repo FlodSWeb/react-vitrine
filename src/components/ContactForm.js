@@ -19,7 +19,7 @@ const ContactForm = () => {
     //   )
     //   .then((res) => {
     //     form.current.reset();
-    //     formMess.innerHTML = "<p class='success'>Message sent </p>";
+    //     formMess.innerHTML = "<p className='success'>Message sent </p>";
     //   });
     // ............................
   };
